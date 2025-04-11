@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Catalog from '../catalog/Catalog';
 import Content from '../content/Content';
